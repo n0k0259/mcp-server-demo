@@ -12,7 +12,7 @@ This demo showcases multiple Model Context Protocol (MCP) servers working togeth
 
 1. **Install dependencies:**
    ```bash
-   pip install -r requirements.txt
+   uv install -r requirements.txt
    ```
 
 2. **Configure environment variables:**
