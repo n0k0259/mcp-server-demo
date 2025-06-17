@@ -1,0 +1,6 @@
+langchain-aws
+langchain-mcp-adapters
+mcp
+langgraph
+firecrawl-py
+python-dotenv
